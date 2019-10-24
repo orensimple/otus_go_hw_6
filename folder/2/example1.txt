@@ -1,0 +1,1 @@
+de use C binding you could get stuck a little bit. The issue with CGO is that you need a gcc compati
